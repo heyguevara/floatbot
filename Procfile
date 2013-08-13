@@ -1,1 +1,1 @@
-web: bin/hubot -a irc -n floatbot
+bot: bin/hubot -a irc -n floatbot
