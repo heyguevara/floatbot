@@ -1,8 +1,9 @@
 language: node_js
 node_js:
-  - "0.10"
-  - "0.8"
-  - "0.6"
+- '0.10'
+- '0.8'
+- '0.6'
 deploy:
   provider: heroku
-  api_key: "YOUR API KEY"
+  api_key:
+    secure: SV/1cZ4yDhrWHzYuXe4ahTpOwOc2+FvrTH2kYC9pm6bqFtKq5UdK2/IgIdpqGI6deaOR2uaaOUz3PGhAEXmiM5NxHVzKgQ4mbtJAhc19GZThEH8syYgXDhJLsY/qqcoguB7c46+JYKd6CvsZS3IuWYaZNBBxR6IkwK6nw+WnifI=
