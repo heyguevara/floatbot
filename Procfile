@@ -1,1 +1,1 @@
-web: bin/hubot -a campfire -n floatbot
+web: bin/hubot -n floatbot
